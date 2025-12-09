@@ -23,6 +23,7 @@ Make sure Node.js is installed, then run:
 
 ```bash
 node filename.js
+```
 
 🎯 Purpose of This Repo
 
