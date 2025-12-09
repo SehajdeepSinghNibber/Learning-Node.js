@@ -37,7 +37,4 @@ To track progress publicly
 
 🤝 Contributions
 
-This is a learning repository, but feedback and suggestions are always welcome.
-
-
 Let me know if you want it more fancy (badges, logo, colors, sections, etc.)!
